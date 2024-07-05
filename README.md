@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/C5616AQEXjZnmGNGZ6A/profile-displaybackgroundimage-shrink_350_1400/0/1516778042223?e=1725494400&v=beta&t=dIf-wzPsdz0kfa9WLKHRPVRpEKmUqd0fD9h2sX2KHns" width= 100%>
 <br>
 
-- 👋 Hi, I’m @ChismanRaheem
+- 👋 Hi, I’m Raheem Chisman
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Msal,Intune,and MIP
 - 💞️ I’m looking to collaborate on App Dev Projects
