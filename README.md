@@ -14,7 +14,7 @@
 
 # <img src="https://github-readme-streak-stats.herokuapp.com/?user=chismanraheem&theme=tokyonight&hide_border=true" alt="chismanraheem's GitHub Stats" />
 # ![Raheem's GitHub stats](https://github-readme-stats.vercel.app/api?username=chismanraheem&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-# [![Raheem's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chismanraheem&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# ![Raheem's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chismanraheem&theme=tokyonight&show_icons=true)
 # ![Raheems Profile hits](https://komarev.com/ghpvc/?username=chismanraheem&color=green)
 
 
