@@ -29,6 +29,9 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+  
+  
 </div>
 
 #
