@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/C5616AQEXjZnmGNGZ6A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516778042223?e=1735171200&v=beta&t=vgRqScSqgMarahffsDiz3hrX4xFMF9eCRJD2djfZl_I" width= 100%>
+<img src="https://media.licdn.com/dms/image/v2/C5616AQEXjZnmGNGZ6A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1516778042258?e=2147483647&v=beta&t=EijNvAU1SWYH24kZls4kFPeH46vcPVYwspcJigLiEOw" width= 100%>
 <br>
 
 - 👋 Hi, I’m Raheem Chisman
