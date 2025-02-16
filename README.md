@@ -5,7 +5,6 @@
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Msal,Intune,and MIP
 - 💞️ I’m looking to collaborate on App Dev Projects
-- 📫 How to reach me raheem.chisman@gmail.com
 - 🔥 <a href="https://www.linkedin.com/in/raheem-chisman-995b0737/" rel="nofollow"><img src="https://camo.githubusercontent.com/60dcb9273f90b4c5cde7c503e38f7a6ff400169e90b0764858f399b50d325498/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=fff" style="max-width: 100%;"></a>
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact:  Lived in Hawaii🌴 20 years 🤙.
